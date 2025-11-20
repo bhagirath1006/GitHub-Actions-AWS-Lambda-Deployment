@@ -1,0 +1,11 @@
+{
+  "name": "lambda-github-actions",
+  "version": "1.0.0",
+  "description": "AWS Lambda Deployment via GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "author": "Bhagirath",
+  "license": "MIT"
+}
